@@ -4,7 +4,7 @@
     String currentYear = sdf.format(today);
 %>
 <div class="footer">
-    &copy; ${currentYear} Do Doan Duy Hoang - 23162025
+    &copy; ${currentYear} Duong Dinh Ngoc Khang - 23162036
 </div>
 
 
